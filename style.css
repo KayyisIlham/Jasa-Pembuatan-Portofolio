@@ -1,0 +1,23 @@
+.navbar-expand-lg {
+  background-color: #2967dc;
+}
+
+.headerBg {
+  opacity: 50%;
+}
+
+.tombol {
+  background-color: #5f89d7;
+  color: white;
+  height: 50px;
+  border: none;
+  border-radius: 47px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.tombol:hover {
+  background-color: #2967dc;
+}
