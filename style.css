@@ -21,3 +21,15 @@
 .tombol:hover {
   background-color: #2967dc;
 }
+
+.sosmed {
+  background-color: #5f89d7;
+  img {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+}
+
+.kaki {
+  background-color: #2967dc;
+}
